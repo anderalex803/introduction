@@ -5,11 +5,15 @@ This page explains about 'ezygeo-ai' that found by [mheriyanto](https://github.c
 
 We think this image below, that can explain why we choose 'ai' for our community. "Because AI or artificial intelligence is the main head of all the other technologies and at the same time, all technologies are co-related to each other. **Machine Learning (ML)**, Deep Learning (DL), and Neural Network (NN) all are the sub-parts of AI." - [intellipaat.com](https://intellipaat.com/community/9868/what-is-the-difference-between-deep-learning-and-traditional-artificial-neural-network-machine-learning)
 
+
 <a artificial intelligence href="https://mc.ai/roadmap-to-ml-and-dl/">
   <img src="https://github.com/ezygeo-ai/introduction/blob/master/images/ai.png" width="100%">
 </a>
 
+
 "Data science is the extraction of relevant insights from data. It uses various techniques from many fields like mathematics, **machine learning**, computer programming, statistical modeling, data engineering and visualization, **pattern recognition and learning**, uncertainty modeling, data warehousing, and cloud computing." - [Aravind Venugopal, School of AI](https://medium.com/school-of-ai-trivandrum/how-to-become-an-ai-engineer-8f6416ef5ca4)
+
+
 
 <a data science href="https://www.datasciencecentral.com/profiles/blogs/data-science-for-managers-mindmap">
   <img src="https://github.com/ezygeo-ai/introduction/blob/master/images/datascience.png" width="100%">
