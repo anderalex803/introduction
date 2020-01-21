@@ -12,23 +12,24 @@ This page explains about 'ezygeo-ai' that was found by [mheriyanto](https://gith
 
 We think this image below, that can explain why we choose **ezygeo-ai** for our community. Because "**AI** or **Artificial Intelligence** is the main head of all the other technologies and at the same time, all technologies are co-related to each other. **Machine Learning (ML)**, Deep Learning (DL), and Neural Network (NN) all are the sub-parts of AI." - [intellipaat.com](https://intellipaat.com/community/9868/what-is-the-difference-between-deep-learning-and-traditional-artificial-neural-network-machine-learning)
 
-
 <p align="center" artificial intelligence href="https://mc.ai/roadmap-to-ml-and-dl/">
 <img src="ttps://github.com/ezygeo-ai/introduction/blob/master/images/ai.png" width="100%">
 </p>
 
-
 "Data science is the extraction of relevant insights from data. It uses various techniques from many fields like mathematics, **machine learning**, computer programming, statistical modeling, data engineering and visualization, **pattern recognition and learning**, uncertainty modeling, data warehousing, and cloud computing." - [Aravind Venugopal, School of AI](https://medium.com/school-of-ai-trivandrum/how-to-become-an-ai-engineer-8f6416ef5ca4)
 
-
-
-<a data science href="https://www.datasciencecentral.com/profiles/blogs/data-science-for-managers-mindmap">
+<p align="center" data science href="https://www.datasciencecentral.com/profiles/blogs/data-science-for-managers-mindmap">
   <img src="https://github.com/ezygeo-ai/introduction/blob/master/images/datascience.png" width="100%">
-</a>
+</p>
 
 "Becoming a Data Scientist – Curriculum via Metromap" - [Swami Chandrasekaran, 2013](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
 
-<a data science roadmap href="https://github.com/MrMimic/data-scientist-roadmap">
+<p align="center" data science roadmap href="https://github.com/MrMimic/data-scientist-roadmap">
   <img src="https://camo.githubusercontent.com/8239665558c289f00506df466df25f10b910e7ba/687474703a2f2f6e6972766163616e612e636f6d2f74686f75676874732f77702d636f6e74656e742f75706c6f6164732f323031332f30372f526f6164546f44617461536369656e74697374312e706e67" width="100%">
-</a>
+</p>
 
+"Machine Learning Map" - [vas3k.ru](https://vas3k.ru/blog/machine_learning/)
+
+<p align="center" machine learning href="https://vas3k.ru/blog/machine_learning/">
+<img src="https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png" width="100%">
+</p>
